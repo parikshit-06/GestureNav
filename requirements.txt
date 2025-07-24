@@ -1,0 +1,63 @@
+# =============================================================================
+# GESTURE DRONE CONTROL - DETAILED REQUIREMENTS
+# =============================================================================
+
+# Core Scientific Computing
+numpy==1.24.3                    # Numerical computations
+scipy==1.10.1                    # Scientific computing utilities
+
+# Computer Vision
+opencv-python==4.7.1.72          # Core OpenCV functionality
+opencv-contrib-python==4.7.1.72  # Additional OpenCV modules
+mediapipe==0.10.1                # Hand tracking and pose detection
+pillow==9.5.0                    # Image processing library
+
+# Machine Learning
+scikit-learn==1.2.2              # ML algorithms and utilities
+pandas==2.0.1                    # Data manipulation and analysis
+joblib==1.2.0                    # Model serialization
+
+# Data Visualization
+matplotlib==3.7.1                # Basic plotting
+seaborn==0.12.2                  # Statistical visualizations
+plotly==5.14.1                   # Interactive plots
+
+# Drone Communication & Control
+mavsdk==1.4.10                   # MAVLink SDK for drone control
+pymavlink==2.4.37                # Low-level MAVLink protocol
+
+# ROS2 Dependencies (Install via apt, not pip)
+# sudo apt install python3-rclpy
+# sudo apt install ros-humble-sensor-msgs
+# sudo apt install ros-humble-geometry-msgs
+# sudo apt install ros-humble-std-msgs
+# sudo apt install ros-humble-cv-bridge
+
+# Configuration & Utilities
+pyyaml==6.0                      # YAML configuration files
+tqdm==4.65.0                     # Progress bars
+colorlog==6.7.0                  # Colored logging
+
+# Async Programming
+asyncio                          # Built-in async support
+asyncio-mqtt==0.16.1             # MQTT async client (if needed)
+
+# Development Tools
+pytest==7.3.1                   # Testing framework
+black==23.3.0                    # Code formatter
+flake8==6.0.0                    # Linting
+isort==5.12.0                    # Import sorting
+
+# Optional: Deep Learning (uncomment if needed)
+# tensorflow==2.12.0             # TensorFlow for deep learning
+# torch==2.0.0                   # PyTorch
+# torchvision==0.15.0            # PyTorch vision utilities
+
+# Optional: Advanced Computer Vision (uncomment if needed)
+# dlib==19.24.1                  # Face recognition and object detection
+# imutils==0.5.4                 # Image processing utilities
+# face-recognition==1.3.0        # Face recognition library
+
+# System & Hardware Interface
+psutil==5.9.5                    # System monitoring
+pyserial==3.5                    # Serial communication
