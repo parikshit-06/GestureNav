@@ -1,0 +1,42 @@
+running egg_info
+creating ../../build/gesture_drone_control/gesture_drone_control.egg-info
+writing ../../build/gesture_drone_control/gesture_drone_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/gesture_drone_control/gesture_drone_control.egg-info/dependency_links.txt
+writing entry points to ../../build/gesture_drone_control/gesture_drone_control.egg-info/entry_points.txt
+writing requirements to ../../build/gesture_drone_control/gesture_drone_control.egg-info/requires.txt
+writing top-level names to ../../build/gesture_drone_control/gesture_drone_control.egg-info/top_level.txt
+writing manifest file '../../build/gesture_drone_control/gesture_drone_control.egg-info/SOURCES.txt'
+reading manifest file '../../build/gesture_drone_control/gesture_drone_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/gesture_drone_control/gesture_drone_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build
+creating /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib
+creating /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib/gesture_drone_control
+copying gesture_drone_control/gesture_publisher.py -> /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib/gesture_drone_control
+copying gesture_drone_control/gesture_command_map.py -> /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib/gesture_drone_control
+copying gesture_drone_control/__init__.py -> /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib/gesture_drone_control
+copying gesture_drone_control/drone_command_node.py -> /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib/gesture_drone_control
+running install
+running install_lib
+creating /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control
+copying /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib/gesture_drone_control/gesture_publisher.py -> /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control
+copying /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib/gesture_drone_control/gesture_command_map.py -> /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control
+copying /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib/gesture_drone_control/__init__.py -> /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control
+copying /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib/gesture_drone_control/drone_command_node.py -> /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control
+byte-compiling /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control/gesture_publisher.py to gesture_publisher.cpython-310.pyc
+byte-compiling /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control/gesture_command_map.py to gesture_command_map.cpython-310.pyc
+byte-compiling /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control/drone_command_node.py to drone_command_node.cpython-310.pyc
+running install_data
+creating /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/share/ament_index
+creating /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/share/ament_index/resource_index
+creating /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/share/ament_index/resource_index/packages
+copying resource/gesture_drone_control -> /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/share/ament_index/resource_index/packages
+copying package.xml -> /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/share/gesture_drone_control
+running install_egg_info
+Copying ../../build/gesture_drone_control/gesture_drone_control.egg-info to /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing drone_command_node script to /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/gesture_drone_control
+Installing gesture_publisher script to /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/gesture_drone_control
+writing list of installed files to '/home/pari/GestureNav/ros2_ws/build/gesture_drone_control/install.log'

@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing gesture_drone_control.egg-info/PKG-INFO
+writing dependency_links to gesture_drone_control.egg-info/dependency_links.txt
+writing entry points to gesture_drone_control.egg-info/entry_points.txt
+writing requirements to gesture_drone_control.egg-info/requires.txt
+writing top-level names to gesture_drone_control.egg-info/top_level.txt
+reading manifest file 'gesture_drone_control.egg-info/SOURCES.txt'
+writing manifest file 'gesture_drone_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture-drone-control.egg-link (link to .)
+Installing drone_command_node script to /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/gesture_drone_control
+Installing gesture_publisher script to /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/gesture_drone_control
+
+Installed /home/pari/GestureNav/ros2_ws/build/gesture_drone_control
+running symlink_data
+symbolically linking /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/resource/gesture_drone_control -> /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/share/ament_index/resource_index/packages
+symbolically linking /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/package.xml -> /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/share/gesture_drone_control

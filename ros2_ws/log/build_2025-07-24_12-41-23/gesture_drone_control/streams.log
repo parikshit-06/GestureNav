@@ -1,0 +1,25 @@
+[0.397s] Invoking command in '/home/pari/GestureNav/ros2_ws/src/gesture_drone_control': PYTHONPATH=/home/pari/GestureNav/ros2_ws/build/gesture_drone_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gesture_drone_control build --build-base /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build install --record /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/install.log --single-version-externally-managed install_data
+[0.556s] running egg_info
+[0.556s] writing ../../build/gesture_drone_control/gesture_drone_control.egg-info/PKG-INFO
+[0.556s] writing dependency_links to ../../build/gesture_drone_control/gesture_drone_control.egg-info/dependency_links.txt
+[0.557s] writing entry points to ../../build/gesture_drone_control/gesture_drone_control.egg-info/entry_points.txt
+[0.557s] writing requirements to ../../build/gesture_drone_control/gesture_drone_control.egg-info/requires.txt
+[0.557s] writing top-level names to ../../build/gesture_drone_control/gesture_drone_control.egg-info/top_level.txt
+[0.558s] reading manifest file '../../build/gesture_drone_control/gesture_drone_control.egg-info/SOURCES.txt'
+[0.559s] writing manifest file '../../build/gesture_drone_control/gesture_drone_control.egg-info/SOURCES.txt'
+[0.559s] running build
+[0.559s] running build_py
+[0.559s] copying gesture_drone_control/drone_command_node.py -> /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib/gesture_drone_control
+[0.560s] running install
+[0.560s] running install_lib
+[0.561s] copying /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build/lib/gesture_drone_control/drone_command_node.py -> /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control
+[0.562s] byte-compiling /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control/drone_command_node.py to drone_command_node.cpython-310.pyc
+[0.563s] running install_data
+[0.563s] running install_egg_info
+[0.564s] removing '/home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control-0.0.0-py3.10.egg-info' (and everything under it)
+[0.564s] Copying ../../build/gesture_drone_control/gesture_drone_control.egg-info to /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture_drone_control-0.0.0-py3.10.egg-info
+[0.565s] running install_scripts
+[0.579s] Installing drone_command_node script to /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/gesture_drone_control
+[0.579s] Installing gesture_publisher script to /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/gesture_drone_control
+[0.579s] writing list of installed files to '/home/pari/GestureNav/ros2_ws/build/gesture_drone_control/install.log'
+[0.596s] Invoked command in '/home/pari/GestureNav/ros2_ws/src/gesture_drone_control' returned '0': PYTHONPATH=/home/pari/GestureNav/ros2_ws/build/gesture_drone_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gesture_drone_control build --build-base /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build install --record /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/install.log --single-version-externally-managed install_data

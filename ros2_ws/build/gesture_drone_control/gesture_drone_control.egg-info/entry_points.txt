@@ -1,0 +1,4 @@
+[console_scripts]
+drone_command_node = gesture_drone_control.drone_command_node:main
+gesture_publisher = gesture_drone_control.gesture_publisher:main
+

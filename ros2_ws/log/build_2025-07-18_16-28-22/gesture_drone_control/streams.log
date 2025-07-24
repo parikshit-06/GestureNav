@@ -1,0 +1,18 @@
+[0.688s] Invoking command in '/home/pari/GestureNav/ros2_ws/build/gesture_drone_control': PYTHONPATH=/home/pari/GestureNav/ros2_ws/build/gesture_drone_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build --no-deps symlink_data
+[0.980s] running develop
+[1.175s] running egg_info
+[1.175s] writing gesture_drone_control.egg-info/PKG-INFO
+[1.175s] writing dependency_links to gesture_drone_control.egg-info/dependency_links.txt
+[1.175s] writing entry points to gesture_drone_control.egg-info/entry_points.txt
+[1.176s] writing requirements to gesture_drone_control.egg-info/requires.txt
+[1.176s] writing top-level names to gesture_drone_control.egg-info/top_level.txt
+[1.178s] reading manifest file 'gesture_drone_control.egg-info/SOURCES.txt'
+[1.180s] writing manifest file 'gesture_drone_control.egg-info/SOURCES.txt'
+[1.181s] running build_ext
+[1.182s] Creating /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages/gesture-drone-control.egg-link (link to .)
+[1.183s] Installing drone_command_node script to /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/gesture_drone_control
+[1.183s] Installing gesture_publisher script to /home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/gesture_drone_control
+[1.184s] 
+[1.184s] Installed /home/pari/GestureNav/ros2_ws/build/gesture_drone_control
+[1.184s] running symlink_data
+[1.212s] Invoked command in '/home/pari/GestureNav/ros2_ws/build/gesture_drone_control' returned '0': PYTHONPATH=/home/pari/GestureNav/ros2_ws/build/gesture_drone_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pari/GestureNav/ros2_ws/install/gesture_drone_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pari/GestureNav/ros2_ws/build/gesture_drone_control/build --no-deps symlink_data
