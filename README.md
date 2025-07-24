@@ -263,7 +263,7 @@ Modify `drone_command_node.py` to add new flight behaviors and update the gestur
 
 ## License
 
-
+MIT Licensed
 
 ## Acknowledgments
 
